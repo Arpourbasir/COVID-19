@@ -348,7 +348,7 @@ Feel free to fork the repository and submit a Pull Request.
 
 # 📄 License
 
-This project was developed for educational purposes as part of a university assignment.
+This project was developed for educational purposes as part of a KNTU university assignment.
 
 You are free to study, modify, and extend the implementation for learning and research purposes.
 
